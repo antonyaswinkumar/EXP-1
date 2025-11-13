@@ -5,7 +5,7 @@ a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit.
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
-S.No.	Components	Range	Quantity
+<li>S.No.	Components	Range	Quantity<li>
 1	Resistor	1kΩ	3
 2	Voltmeter (DC)	0-30V	3
 3	Ammeter (DC)	(0-200)mA	3
